@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header {
+    
+    border-bottom: 2px solid rgb(219, 217, 217);
+    padding: 15px;
+}
+
+.container {
+    margin: 0 auto;
+    
+    
+    width: 87%;
+    height: 3.5%;
+     overflow: hidden; 
+}
+.logo { 
+    float: left;
+    width: 7.6%;
+}
+
+.logo img {
+    width: 100%;
+}
+.menu {
+    float: right;
+    width: 37%;
+}
+.menu ul {
+    float: right;
+}
+.menu ul li {
+    
+    float: left;
+    list-style: none;
+}
+
+.menu ul li a{
+    padding: 0 15px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+
+}
+.menu ul li a:hover{
+
+    color: hwb(215 7% 16%);
+
+}
+.menu ul li:last-child a {
+    padding-right: 0;
+    /* float: left;
+    list-style: none; */
+}
