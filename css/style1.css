@@ -7,7 +7,7 @@ body {
     font-family: sans-serif;
     font-size: 16px;
     font-weight: 400;
-    color: #172d5c;
+    color: #0f2656;
 }
 header{
         padding: 15px  0;
@@ -59,6 +59,7 @@ header{
 .menu ul li a{
     padding: 20px;
     text-decoration: none;
+    color: #68617b;
 
 }
 .menu ul li a:hover {
@@ -91,7 +92,7 @@ header{
     
 }
 .b_h1 span{
-    color: rgb(11, 11, 244);
+    color: #008aff;
 }
 .b_p{
      margin: 23px 0; 
@@ -125,6 +126,7 @@ header{
 .fleft h2{
     margin: 0;
     font-size: 40px;
+    color: #f15767;
 }
 .fleft p{
     padding-left: 10px;
